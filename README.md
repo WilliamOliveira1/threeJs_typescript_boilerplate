@@ -1,6 +1,6 @@
 # threeJs_typescript_boilerplate
 
-## To create a new Vite project
+### To create a new Vite project
 
 ```bash
 npm create vite@latest
@@ -15,7 +15,7 @@ type the name of the project and select Vanilla -> TypeScript
 npm install
 ```
 
-## Install Three.js and @three/types
+### Install Three.js and @three/types
 
 ```bash
 npm install three --save-dev
@@ -25,7 +25,7 @@ npm install three --save-dev
 npm install @types/three --save-dev
 ```
 
-## To install the dat.GUI
+### To install the dat.GUI
 
 ```bash
 npm install dat.gui@latest --save-dev
@@ -38,7 +38,7 @@ npm install dat.gui@latest --save-dev
 npm install @types/three --save-dev
 ```
 
-## To run the project
+### To run the project
 
 ```bash
 npm run dev
